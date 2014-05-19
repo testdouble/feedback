@@ -6,7 +6,7 @@ We'd love if you asked us about the work we do—whether it's about [Lineman](ht
 
 ## Wait, what?
 
-This repo was inspired by [@holman](https://github.com/holman)'s [holman/feedback](https://github.com/holman/feedback) repo as a way to promote conversations about software in a public space that everyone could benefit from. In particular, we've recently seen a huge uptick in thoughtful and reasonable questions about how we work via e-mail, but we'd rather be able to include multiple participants and reference them later than continue to tackle each question on a 1-on-1 basis.
+This repo was inspired by [@holman](https://github.com/holman)'s [feedback repo](https://github.com/holman/feedback) as a way to promote conversations about software in a public space from which everyone could benefit. In particular, we've recently seen a huge uptick in thoughtful and reasonable questions about how we work via e-mail, but we'd rather be able to include multiple participants and reference them later than continue to tackle each question on a 1-on-1 basis.
 
 Several of our open source projects span dozens of repos at this point, so having a central place to discuss them was also becoming apparent (people with simple curiosities, for example, often feel uncomfortable opening an issue on the project's repo directly). Anyone should feel free raising any curiosity here without fear of being shamed for asking the wrong thing or doing it in the wrong place.
 
